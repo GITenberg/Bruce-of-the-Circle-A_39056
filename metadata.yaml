@@ -1,0 +1,40 @@
+_repo: Bruce-of-the-Circle-A_39056
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gage, George W.
+    alias: Gage, G. W.
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+  - agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: archival
+  image_path: 39056-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Titus, Harold
+    birthdate: 1888
+    deathdate: 1967
+    gutenberg_agent_id: '37945'
+    url: http://www.gutenberg.org/2009/agents/37945
+description: ''
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39056'
+  lccn: '18009495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Western stories'
+title: Bruce of the Circle A
+url: http://www.gutenberg.org/ebooks/39056
